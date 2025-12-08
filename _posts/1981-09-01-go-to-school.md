@@ -1,4 +1,4 @@
---
+---
 title: "上学"
 excerpt_separator: "<!--more-->"
 categories:

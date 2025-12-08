@@ -1,10 +1,10 @@
 ---
-title: "Post: Chat"
+title: "初三：总校"
 categories:
-  - Blog
+  - memoir
 tags:
-  - chat
-  - Post Formats
+  - 初三
+  - 总校
 ---
 
 Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
